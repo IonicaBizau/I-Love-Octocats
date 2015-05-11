@@ -1,0 +1,4 @@
+<svg>
+    <script>alert("Hi")</script>
+    <circle r="20"></circle>
+</svg>
