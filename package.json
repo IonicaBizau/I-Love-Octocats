@@ -1,0 +1,59 @@
+{
+  "name": "i-love-octocats",
+  "version": "1.0.0",
+  "description": ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/I-Love-Octocats.git"
+  },
+  "keywords": [
+    "octocats",
+    "test"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/I-Love-Octocats/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/I-Love-Octocats#readme",
+  "blah": {
+    "title": "Octocats, everywhere!",
+    "description": [
+      ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::smile::smile::smile::smile::smile::smile::smile::smile::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat:",
+      "",
+      ":octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat:",
+      "",
+      ":octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat:",
+      "",
+      ":octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::smile::smile::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:",
+      "",
+      ":octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat::octocat:"
+    ]
+  }
+}
