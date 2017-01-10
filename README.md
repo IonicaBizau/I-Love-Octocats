@@ -50,5 +50,3 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 [website]: http://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
-
-
